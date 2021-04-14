@@ -1,0 +1,64 @@
+h1 {
+    color: orangered;
+}
+p {color: lightcoral;
+}
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.center-list {
+    width: 10%;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
+
+#color-box {
+    background-color: rgb(0, 0, 0);
+    width: 40em;
+    height: 5em;
+}
+
+.picker-form-container {
+    display: flex;
+    justify-content: space-between;
+}
+.picker-control {
+    display: flex;
+    justify-content: space-between;
+}
+
+#color-box2 {
+    background-color: rgb(0, 0, 0);
+    width: 40em;
+    height: 3em;
+}
+
+.picker-form-container2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.picker-control2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#color-box3 {
+    background-color: rgb(0, 0, 0);
+    width: 40em;
+    height: 4em;
+}
+
+.picker-form-container3 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.picker-control3 {
+    display: flex;
+    justify-content: space-between;
+}
